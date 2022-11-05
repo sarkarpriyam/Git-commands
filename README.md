@@ -14,7 +14,7 @@ This is a repository conataining all the essential git commands.
 
 
 ## 🛠My Skills
-<i><b>C++, HTML, SQL</b></i>
+<i><b>C++, HTML, SQL, MongoDB, Git, Kdenlive(Video Editing)</b></i>
 
 
 ![Logo](https://avatars.githubusercontent.com/u/117529765?v=4)
